@@ -1,0 +1,8 @@
+KPI_Name,KPI_Value,KPI_Category
+Total Applications,35831.0,Volume
+Total Funded,371697550.0,Amount
+Total Received,403032087.0,Amount
+Avg Interest Rate,0.11904205855264993,Rate
+Avg DTI,0.13474789707236748,Risk
+Good Loan %,86.24096452792274,Quality
+Bad Loan %,13.759035472077253,Quality

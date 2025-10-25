@@ -1,0 +1,12 @@
+KPI_Category,KPI_Name,KPI_Value,KPI_Format
+Volume,Total Loan Applications,35274.0,Number
+Amount,Total Funded Amount,362945075.0,Currency
+Amount,Total Amount Received,393157655.0,Currency
+Rate,Average Interest Rate,0.1189466859443216,Percentage
+Risk,Average DTI,0.13500479673413845,Percentage
+Quality,Good Loan Percentage,86.18245733401372,Percentage
+Quality,Good Loan Applications,30400.0,Number
+Quality,Good Loan Funded Amount,309133100.0,Currency
+Quality,Bad Loan Percentage,13.817542665986279,Percentage
+Quality,Bad Loan Applications,4874.0,Number
+Quality,Bad Loan Funded Amount,53811975.0,Currency

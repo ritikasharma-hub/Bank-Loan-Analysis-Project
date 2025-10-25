@@ -1,0 +1,7 @@
+Table_Name,Primary_Key,Purpose,Relationships
+dashboard_main,id,Main fact table with all loan records,Central fact table
+kpi_summary_cards,KPI_Name,KPI values for dashboard cards,Standalone for KPI cards
+monthly_trends_detailed,Date,Time series data for trend analysis,Filter by date range
+state_dimension,address_state,State-level aggregated metrics,Join on address_state
+grade_dimension,"grade, sub_grade",Grade/Sub-grade aggregated metrics,Join on grade/sub_grade
+employment_dimension,emp_length,Employment length aggregated metrics,Join on emp_length

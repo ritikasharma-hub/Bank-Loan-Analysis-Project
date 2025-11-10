@@ -24,3 +24,4 @@ Comprehensive loan portfolio analysis system for financial institutions to track
 - **Jupyter**: Exploratory analysis
 
 ## 📁 Project Structure
+"# Bank-Loan-Analysis-Project" 
